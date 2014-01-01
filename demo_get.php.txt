@@ -1,0 +1,4 @@
+<?php
+$hint="<h1>booo!</h1>";
+echo $hint;
+?>
